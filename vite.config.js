@@ -22,6 +22,6 @@ export default defineConfig({
     },
     server: {
         https: false,
-        host: 'electronics-store.test',
+        host: 'online-electronics-store.test',
     },
 });
